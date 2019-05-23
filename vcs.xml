@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Sbucafratte/AndroidStudioProjects/tree/master/DataBinding" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Sbucafratte/AndroidStudioProjects/tree/master/QuizApp/app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\gguerrieri2\AndroidStudioProjects" />
